@@ -6,12 +6,13 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 🎓 Figma  Designing Course - Udemy<br>
 🛡️ Ethical Hacking Workshop – SDLC Software<br>
 🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
+
 ###
 ✋ To Reach Me:<br>
 📧 Email:tamilkumaranwork@gmail.com <br>
-💼 [LinkedIn]
-💻 [GitHub]
-📷 [Instagram]
+💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/)<br>
+💻 [GitHub](https://github.com/Tamil-08)<br>
+📷 [Instagram](https://www.instagram.com/myself_tamilkumaran/)<br>
 Fun Fact: I know Japanese 😄<br><br>
 
 
