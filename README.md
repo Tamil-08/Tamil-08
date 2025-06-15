@@ -8,9 +8,10 @@
 🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
 ✋ To Reach Me:<br>
 📧 Email:tamilkumaranwork@gmail.com<br>
-💼 LinkedIn (https://www.linkedin.com/in/tamilkumaran-b-800939298)<br>
-💻 GitHub(https://github.com/Tamil-08)<br>
-📷 Instagram(https://www.instagram.com/heart_hacker_t.k?igsh=MXNkcWQydm51bTFwdg==)<br><br>
+💼 [LinkedIn](https://www.linkedin.com/in/santha-ram-b4a894263/)  
+💻 [GitHub](https://github.com/Santharam5)
+📷 [Instagram](https://www.instagram.com/orewa_santha/)
+
 Fun Fact: I know Japanese 😄<br><br>
 
 
