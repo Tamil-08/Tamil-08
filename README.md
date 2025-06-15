@@ -13,7 +13,7 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/)<br>
 💻 [GitHub](https://github.com/Tamil-08)<br>
 📷 [Instagram](https://www.instagram.com/myself_tamilkumaran/)<br>
-Fun Fact: I know Japanese 😄<br><br>
+Fun Fact: *I know Japanese * 😄<br><br>
 
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1zOHIwdDR2OXNuZjltMzZkY3QzMmd6cXg1c2xqcWI2ZmJ2dnFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
