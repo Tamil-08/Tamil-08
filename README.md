@@ -12,7 +12,7 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 📧 Email:tamilkumaranwork@gmail.com <br>
 💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/)<br>
 💻 [GitHub](https://github.com/Tamil-08)<br>
-📷 [Instagram](https://www.instagram.com/myself_tamilkumaran/)<br>
+📷 [Instagram](https://www.instagram.com/heart_hacker_t.k/)<br>
 Fun Fact: I know Japanese 😄<br><br>
 
 
