@@ -1,4 +1,4 @@
-💫 Hi I'm TamilKumaran B 
+<h1>💫 Hi I'm TamilKumaran B </h1>
 
 Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br><br>
 
