@@ -6,6 +6,7 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 🎓 Figma  Designing Course - Udemy<br>
 🛡️ Ethical Hacking Workshop – SDLC Software<br>
 🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
+###
 ✋ To Reach Me:<br>
 📧 Email:tamilkumaranwork@gmail.com <br>
 💼 [LinkedIn](https://www.linkedin.com/in/santha-ram-b4a894263/)  
@@ -14,7 +15,6 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 Fun Fact: I know Japanese 😄<br><br>
 
 
-###
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1zOHIwdDR2OXNuZjltMzZkY3QzMmd6cXg1c2xqcWI2ZmJ2dnFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 ###
 
