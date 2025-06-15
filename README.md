@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hi there  I'm TamilKumaran B <br><br>Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br><br>💥 I'm currently focused on Programming and designing to make a  strong foundation. While also imported on  Web Development and  real-time projects.<br><br>🎯 Certifications & Achievements:<br><br>✅ TCS iON Career Edge – Young Professional<br>🎓 FIgma  Designing Course - Udemy<br>🛡️ Ethical Hacking Workshop – SDLC Software<br>🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>✋ To Reach Me:<br>📧 Email:Tamilkumaranwork@gmail.com<br>💼 LinkedIn<br>💻 GitHub<br>📷 Instagram<br><br>Fun Fact: I know Japanese 😄<br><br>
+👋 Hi there  I'm TamilKumaran B <br><br>Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br><br>
+💥 I'm currently focused on Programming and designing to make a  strong foundation. While also imported on  Web Development and  real-time projects.<br><br>
+🎯 Certifications & Achievements:<br><br>
+✅ TCS iON Career Edge – Young Professional<br>
+🎓 Figma  Designing Course - Udemy<br>
+🛡️ Ethical Hacking Workshop – SDLC Software<br>
+🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
+✋ To Reach Me:<br>
+📧 Email:tamilkumaranwork@gmail.com<br>
+💼 LinkedIn<br>
+💻 GitHub<br>
+📷 Instagram<br><br>
+Fun Fact: I know Japanese 😄<br><br>
 
 
 # 💻 Tech Stack:
