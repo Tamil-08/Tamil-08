@@ -7,10 +7,10 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 🛡️ Ethical Hacking Workshop – SDLC Software<br>
 🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
 ✋ To Reach Me:<br>
-📧 Email:tamilkumaranwork@gmail.com<br>
-💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/) <br>
-💻 [GitHub](https://github.com/Tamil-08)<br>
-📷 [Instagram](https://www.instagram.com/heart_hacker_t.k/)<br>
+📧 Email:tamilkumaranwork@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/)
+💻 [GitHub](https://github.com/Tamil-08/)
+📷 [Instagram](https://www.instagram.com/heart_hacker_t.k/)
 
 Fun Fact: I know Japanese 😄<br><br>
 
