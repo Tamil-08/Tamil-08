@@ -1,7 +1,5 @@
 <h1>💫 Hi I'm TamilKumaran B </h1>
-
-Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br><br>
-
+Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br>
 💥 I'm currently focused on Programming and designing to make a  strong foundation. While also imported on  Web Development and  real-time projects.<br><br>
 🎯 Certifications & Achievements:<br><br>
 ✅ TCS iON Career Edge – Young Professional<br>
