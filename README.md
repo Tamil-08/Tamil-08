@@ -8,7 +8,7 @@ Aspiring Developer | B.Sc Computer Science Graduate | Future Full Stack Develope
 🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
 ✋ To Reach Me:<br>
 📧 Email:tamilkumaranwork@gmail.com <br>
-💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/)<br>
+💼 [LinkedIn]<br>
 💻 [GitHub](https://github.com/Tamil-08/)
 📷 [Instagram](https://www.instagram.com/heart_hacker_t.k/)
 
