@@ -2,7 +2,7 @@
 <h3 align="center">Building intelligent systems, one line of code at a time.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48UBz1MCEUCsc/giphy.gif" width="420">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg3ZXZlemIwYnMycW9rajJ6bzZ0M2pmNjJmcHh6dWhqczlhandzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXaDG7XPGd7iZFDZ27/giphy.gif" width="400">
 </p>
 
 <h2 align="center">🔴 CORE STATUS: ACTIVE 🟡</h2>
@@ -82,7 +82,7 @@ Status: 🟢 Online | Building | Learning | Shipping
 ## 🖥️ Live System Scan
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZhbGJqcnQxcW9rZ3ZhYTV4ZXQybnA0ZnB1dDZmcGd2eWk3aGFmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RgWIsbDWOAr1HGqC8t/giphy.gif" width="400">
 </p>
 
 ## 📊 GitHub Stats
