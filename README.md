@@ -5,8 +5,6 @@
 ### Aspiring AI Developer · Full Stack Developer · B.Sc Computer Science Graduate
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tamil-08&color=red&style=flat&label=Profile+Views)](https://github.com/Tamil-08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-red?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamilkumaran-b-800939298/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tamilkumaranwork@gmail.com)
 
 <p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg3ZXZlemIwYnMycW9rajJ6bzZ0M2pmNjJmcHh6dWhqczlhandzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXaDG7XPGd7iZFDZ27/giphy.gif" width="380">
