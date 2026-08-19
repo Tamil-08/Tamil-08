@@ -1,25 +1,50 @@
-<h1>💫 Hi I'm TamilKumaran B </h1>
-Aspiring AI Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br><br>
-💥 I'm currently focused on Programming and designing to make a strong foundation. While also imported on  Web Development and  real-time projects.<br><br>
-🎯 Certifications & Achievements:<br>
-✅ TCS iON Career Edge – Young Professional<br>
-🎓 Figma  Designing Course - Udemy<br>
-🛡️ Ethical Hacking Workshop – SDLC Software<br>
-🗣️ Paper Presentation: Cloud Computing in Generative AI in NPL<br><br>
+<h1 align="center">🔴🟡 SYSTEM ONLINE — TAMILKUMARAN B PROTOCOL INITIATED 🟡🔴</h1>
+<h3 align="center">"Sometimes you gotta run before you can walk." — Tony Stark</h3>
 
-###
-✋ To Reach Me:<br>
-📧 Email:tamilkumaranwork@gmail.com <br>
-💼 [LinkedIn](https://www.linkedin.com/in/tamilkumaran-b-800939298/)<br>
-💻 [GitHub](https://github.com/Tamil-08)<br>
-📷 [Instagram](https://www.instagram.com/heart_hacker_t.k/)<br>
-Fun Fact: I know Japanese 😄<br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxf48UBz1MCEUCsc/giphy.gif" width="450">
+</p>
 
+<h2 align="center">⚡ ARC REACTOR STATUS: OPERATIONAL ⚡</h2>
+
+```yaml
+Name: TamilKumaran B
+Codename: Aspiring AI Developer
+Suit: B.Sc Computer Science Graduate
+Mission: Building the future, one repo at a time
+Status: 🟢 Online | Scanning for opportunities...
+```
+
+---
+
+## 🎯 J.A.R.V.I.S. LOG — Achievements & Certifications
+
+> "Sir, systems check complete. All protocols nominal."
+
+- ✅ **TCS iON Career Edge** — Young Professional
+- 🎓 **Figma Designing Course** — Udemy
+- 🛡️ **Ethical Hacking Workshop** — SDLC Software
+- 🗣️ **Paper Presentation** — Cloud Computing in Generative AI (NLP)
+
+---
+
+## 📡 COMMUNICATION ARRAY — Reach Me
+
+<p align="left">
+  <a href="mailto:tamilkumaranwork@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
+  <a href="https://www.linkedin.com/in/tamilkumaran-b-800939298/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+  <a href="https://github.com/Tamil-08"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
+  <a href="https://www.instagram.com/heart_hacker_t.k/"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=FFD700"/></a>
+</p>
+
+**💡 Fun Fact:** I know Japanese — Stark-level multilingual protocol unlocked. 😄
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1zOHIwdDR2OXNuZjltMzZkY3QzMmd6cXg1c2xqcWI2ZmJ2dnFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-###
 
-# 💻 Tech Stack:
+---
+
+## 🛠️ SUIT SCHEMATICS — Tech Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -48,34 +73,42 @@ Fun Fact: I know Japanese 😄<br><br>
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
-  <br><br>
+</div>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![CSS3](https://img.shields.io/badge/css3-%23FF0000.svg?style=flat&logo=css3&logoColor=FFD700) ![PHP](https://img.shields.io/badge/php-%23FF0000.svg?style=flat&logo=php&logoColor=FFD700) ![Java](https://img.shields.io/badge/java-%23FF0000.svg?style=flat&logo=openjdk&logoColor=FFD700) ![C++](https://img.shields.io/badge/c++-%23FF0000.svg?style=flat&logo=c%2B%2B&logoColor=FFD700) ![HTML5](https://img.shields.io/badge/html5-%23FF0000.svg?style=flat&logo=html5&logoColor=FFD700) ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=FFD700) ![Vercel](https://img.shields.io/badge/vercel-%231a1a1a.svg?style=flat&logo=vercel&logoColor=FFD700) ![Netlify](https://img.shields.io/badge/netlify-%23FF0000.svg?style=flat&logo=netlify&logoColor=FFD700) ![JavaScript](https://img.shields.io/badge/javascript-%23FF0000.svg?style=flat&logo=javascript&logoColor=FFD700) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23FF0000.svg?style=flat&logo=bootstrap&logoColor=FFD700) ![jQuery](https://img.shields.io/badge/jquery-%23FF0000.svg?style=flat&logo=jquery&logoColor=FFD700) ![NPM](https://img.shields.io/badge/NPM-%23FF0000.svg?style=flat&logo=npm&logoColor=FFD700) ![NodeJS](https://img.shields.io/badge/node.js-FF0000?style=flat&logo=node.js&logoColor=FFD700) ![React](https://img.shields.io/badge/react-%23FF0000.svg?style=flat&logo=react&logoColor=FFD700) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-FF0000?style=flat&logo=Apache%20Maven&logoColor=FFD700) ![MySQL](https://img.shields.io/badge/mysql-FF0000.svg?style=flat&logo=mysql&logoColor=FFD700) ![Figma](https://img.shields.io/badge/figma-%23FF0000.svg?style=flat&logo=figma&logoColor=FFD700)
+
+---
+
+## 📊 SYSTEM DIAGNOSTICS — GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tamil-08&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
 
-## 🏆 GitHub Trophies
+## 🏆 HALL OF ARMOR — GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tamil-08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ J.A.R.V.I.S. Suggests
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Most Deployed Suit (Top Contributed Repo)
 ![](https://github-contributor-stats.vercel.app/api?username=Tamil-08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<p align="center">
+<b>"Genius, Billionaire, Playboy, Philanthropist" — well, 3 out of 4 in progress. 😄</b><br>
+<i>Powering up the next build...</i>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Tamil-08&icon=3&color=13)](https://visitcount.itsvg.in)
-</div>
-<br>
-<div align='center'> 
+
+<div align='center'>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 </div>
-
-
