@@ -1,10 +1,6 @@
 <h1 align="center">⚡ TAMILKUMARAN B ⚡</h1>
 <h3 align="center">Building intelligent systems, one line of code at a time.</h3>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg3ZXZlemIwYnMycW9rajJ6bzZ0M2pmNjJmcHh6dWhqczlhandzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXaDG7XPGd7iZFDZ27/giphy.gif" width="400">
-</p>
-
 <h2 align="center">🔴 CORE STATUS: ACTIVE 🟡</h2>
 
 ```yaml
