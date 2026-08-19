@@ -37,7 +37,7 @@ Status: 🟢 Online | Building | Learning | Shipping
 
 **💡 Fun Fact:** I know Japanese. 😄
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1zOHIwdDR2OXNuZjltMzZkY3QzMmd6cXg1c2xqcWI2ZmJ2dnFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21oenN6Y3AyOHVkbzl4NGRtcmNraWtuOG92Nm1uOHZ2YWlvMDQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jDuKZ5l0ZvPIM3PZz6/giphy.gif"  />
 
 ---
 
