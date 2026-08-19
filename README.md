@@ -1,25 +1,23 @@
-<h1 align="center">🔴🟡 SYSTEM ONLINE — TAMILKUMARAN B PROTOCOL INITIATED 🟡🔴</h1>
-<h3 align="center">"Sometimes you gotta run before you can walk." — Tony Stark</h3>
+<h1 align="center">⚡ TAMILKUMARAN B ⚡</h1>
+<h3 align="center">Building intelligent systems, one line of code at a time.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48UBz1MCEUCsc/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/xUOxf48UBz1MCEUCsc/giphy.gif" width="420">
 </p>
 
-<h2 align="center">⚡ ARC REACTOR STATUS: OPERATIONAL ⚡</h2>
+<h2 align="center">🔴 CORE STATUS: ACTIVE 🟡</h2>
 
 ```yaml
-Name: TamilKumaran B
-Codename: Aspiring AI Developer
-Suit: B.Sc Computer Science Graduate
-Mission: Building the future, one repo at a time
-Status: 🟢 Online | Scanning for opportunities...
+Identity: TamilKumaran B
+Role: Aspiring AI Developer
+Foundation: B.Sc Computer Science Graduate
+Focus: Full Stack Development + Generative AI
+Status: 🟢 Online | Building | Learning | Shipping
 ```
 
 ---
 
-## 🎯 J.A.R.V.I.S. LOG — Achievements & Certifications
-
-> "Sir, systems check complete. All protocols nominal."
+## 🎯 Achievements & Certifications
 
 - ✅ **TCS iON Career Edge** — Young Professional
 - 🎓 **Figma Designing Course** — Udemy
@@ -28,7 +26,7 @@ Status: 🟢 Online | Scanning for opportunities...
 
 ---
 
-## 📡 COMMUNICATION ARRAY — Reach Me
+## 📡 Reach Me
 
 <p align="left">
   <a href="mailto:tamilkumaranwork@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
@@ -37,13 +35,13 @@ Status: 🟢 Online | Scanning for opportunities...
   <a href="https://www.instagram.com/heart_hacker_t.k/"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=FFD700"/></a>
 </p>
 
-**💡 Fun Fact:** I know Japanese — Stark-level multilingual protocol unlocked. 😄
+**💡 Fun Fact:** I know Japanese. 😄
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1zOHIwdDR2OXNuZjltMzZkY3QzMmd6cXg1c2xqcWI2ZmJ2dnFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
 ---
 
-## 🛠️ SUIT SCHEMATICS — Tech Stack
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -81,26 +79,25 @@ Status: 🟢 Online | Scanning for opportunities...
 
 ---
 
-## 📊 SYSTEM DIAGNOSTICS — GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tamil-08&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
 
-## 🏆 HALL OF ARMOR — GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tamil-08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ J.A.R.V.I.S. Suggests
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Most Deployed Suit (Top Contributed Repo)
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tamil-08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <p align="center">
-<b>"Genius, Billionaire, Playboy, Philanthropist" — well, 3 out of 4 in progress. 😄</b><br>
-<i>Powering up the next build...</i>
+<i>Currently powering up the next build...</i>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Tamil-08&icon=3&color=13)](https://visitcount.itsvg.in)
