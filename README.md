@@ -1,8 +1,5 @@
-<div align="center">
-
-# TamilKumaran B
-
-### Aspiring AI Developer · Full Stack Developer · B.Sc Computer Science Graduate
+<h1>💫 Hi I'm TamilKumaran B </h1>
+Aspiring AI Developer | B.Sc Computer Science Graduate | Future Full Stack Developer<br><br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tamil-08&color=red&style=flat&label=Profile+Views)](https://github.com/Tamil-08)
 
