@@ -94,6 +94,7 @@ Status: 🟢 Online | Building | Learning | Shipping
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tamil-08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
 ---
 
 <p align="center">
@@ -101,8 +102,9 @@ Status: 🟢 Online | Building | Learning | Shipping
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Tamil-08&icon=3&color=13)](https://visitcount.itsvg.in)
-
-<div align='center'>
+</div>
+<br>
+<div align='center'> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
