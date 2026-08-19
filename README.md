@@ -79,12 +79,6 @@ Status: 🟢 Online | Building | Learning | Shipping
 
 ---
 
-## 🖥️ Live System Scan
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZhbGJqcnQxcW9rZ3ZhYTV4ZXQybnA0ZnB1dDZmcGd2eWk3aGFmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RgWIsbDWOAr1HGqC8t/giphy.gif" width="400">
-</p>
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117)<br/>
