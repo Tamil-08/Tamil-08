@@ -1,15 +1,20 @@
-<h1 align="center">⚡ TAMILKUMARAN B ⚡</h1>
-<h3 align="center">Building intelligent systems, one line of code at a time.</h3>
+<div align="center">
 
-<h2 align="center">🔴 CORE STATUS: ACTIVE 🟡</h2>
+# TamilKumaran B
 
-```yaml
-Identity: TamilKumaran B
-Role: Aspiring AI Developer
-Foundation: B.Sc Computer Science Graduate
-Focus: Full Stack Development + Generative AI
-Status: 🟢 Online | Building | Learning | Shipping
-```
+### Aspiring AI Developer · Full Stack Developer · B.Sc Computer Science Graduate
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Tamil-08&color=red&style=flat&label=Profile+Views)](https://github.com/Tamil-08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-red?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamilkumaran-b-800939298/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tamilkumaranwork@gmail.com)
+
+<p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg3ZXZlemIwYnMycW9rajJ6bzZ0M2pmNjJmcHh6dWhqczlhandzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXaDG7XPGd7iZFDZ27/giphy.gif" width="380">
+</p>
+
+I build full stack applications and explore Generative AI — currently focused on strengthening my foundations and shipping real-world projects.
+
+</div>
 
 ---
 
@@ -75,11 +80,17 @@ Status: 🟢 Online | Building | Learning | Shipping
 
 ---
 
+## 🖥️ Live System Scan
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZhbGJqcnQxcW9rZ3ZhYTV4ZXQybnA0ZnB1dDZmcGd2eWk3aGFmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RgWIsbDWOAr1HGqC8t/giphy.gif" width="400">
+</p>
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117)<br/>
+![](https://github-stats-extended.vercel.app/api?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tamil-08&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=Tamil-08&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117)
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tamil-08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -90,7 +101,6 @@ Status: 🟢 Online | Building | Learning | Shipping
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tamil-08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 ---
 
 <p align="center">
@@ -98,9 +108,8 @@ Status: 🟢 Online | Building | Learning | Shipping
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Tamil-08&icon=3&color=13)](https://visitcount.itsvg.in)
-</div>
-<br>
-<div align='center'> 
+
+<div align='center'>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
