@@ -37,7 +37,6 @@ Status: 🟢 Online | Building | Learning | Shipping
 
 **💡 Fun Fact:** I know Japanese. 😄
 
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1zOHIwdDR2OXNuZjltMzZkY3QzMmd6cXg1c2xqcWI2ZmJ2dnFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
 ---
@@ -79,6 +78,12 @@ Status: 🟢 Online | Building | Learning | Shipping
 ![CSS3](https://img.shields.io/badge/css3-%23FF0000.svg?style=flat&logo=css3&logoColor=FFD700) ![PHP](https://img.shields.io/badge/php-%23FF0000.svg?style=flat&logo=php&logoColor=FFD700) ![Java](https://img.shields.io/badge/java-%23FF0000.svg?style=flat&logo=openjdk&logoColor=FFD700) ![C++](https://img.shields.io/badge/c++-%23FF0000.svg?style=flat&logo=c%2B%2B&logoColor=FFD700) ![HTML5](https://img.shields.io/badge/html5-%23FF0000.svg?style=flat&logo=html5&logoColor=FFD700) ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=FFD700) ![Vercel](https://img.shields.io/badge/vercel-%231a1a1a.svg?style=flat&logo=vercel&logoColor=FFD700) ![Netlify](https://img.shields.io/badge/netlify-%23FF0000.svg?style=flat&logo=netlify&logoColor=FFD700) ![JavaScript](https://img.shields.io/badge/javascript-%23FF0000.svg?style=flat&logo=javascript&logoColor=FFD700) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23FF0000.svg?style=flat&logo=bootstrap&logoColor=FFD700) ![jQuery](https://img.shields.io/badge/jquery-%23FF0000.svg?style=flat&logo=jquery&logoColor=FFD700) ![NPM](https://img.shields.io/badge/NPM-%23FF0000.svg?style=flat&logo=npm&logoColor=FFD700) ![NodeJS](https://img.shields.io/badge/node.js-FF0000?style=flat&logo=node.js&logoColor=FFD700) ![React](https://img.shields.io/badge/react-%23FF0000.svg?style=flat&logo=react&logoColor=FFD700) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-FF0000?style=flat&logo=Apache%20Maven&logoColor=FFD700) ![MySQL](https://img.shields.io/badge/mysql-FF0000.svg?style=flat&logo=mysql&logoColor=FFD700) ![Figma](https://img.shields.io/badge/figma-%23FF0000.svg?style=flat&logo=figma&logoColor=FFD700)
 
 ---
+
+## 🖥️ Live System Scan
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400">
+</p>
 
 ## 📊 GitHub Stats
 
